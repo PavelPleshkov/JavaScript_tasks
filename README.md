@@ -14,3 +14,5 @@ let matrix = [[1, 2, 3, 4],
 Output:  
 1 2 3 4 8 12 16 15 14 13 9 5 6 7 11 10
 
+[solution clockwiseSpiral.js](https://github.com/PavelPleshkov/JavaScript_tasks/blob/main/clockwiseSpiral.js "clockwiseSpiral.js")  
+***
